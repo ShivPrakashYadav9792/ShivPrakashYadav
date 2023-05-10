@@ -1,4 +1,4 @@
-![logo](https://github.com/ShivPrakashYadav9792/ShivPrakashYadav/blob/main/Github.jpeg)
+
 <h1 align="center">Hi 👋, I'm Shiv Prakash Yadav</h1>
 <h3 align="center">A passionate In Competative Programming from India</h3>
 <img align="right" alt="coding" width="400" src="![image](https://github.com/ShivPrakashYadav9792/ShivPrakashYadav/assets/112088277/f69e1cb4-17a5-47b8-9b55-478b6ca90956)
